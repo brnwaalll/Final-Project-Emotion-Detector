@@ -1,6 +1,6 @@
 # Final-Project-Emotion-Detector
 
-# Repository for final project
+# Repository for Final Project
 
 # Emotion Detection Web Application
 
